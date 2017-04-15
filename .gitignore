@@ -1,3 +1,4 @@
+# Ignore build files
 *.ko
 *.mod.c
 *.mod.o
@@ -5,3 +6,6 @@ Module.symvers
 modules.order
 *.cmd
 .tmp_versions
+
+# Ignore awesome files
+awesome*
